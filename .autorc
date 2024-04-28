@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "useroneman",
+  "repo": "raganork-md",
+  "name": "useroneman",
+  "email": "subbamabba352@gmail.com",
+}
